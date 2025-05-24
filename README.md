@@ -23,7 +23,7 @@ I am a final year Computer Science PhD student at CMILab, UF 🎓. Prior to this
   *“Exploring Vision Language Models for Facial Attribute Recognition: Emotion, Race, Gender, and Age”*, submitted to **Engineering Applications of Artificial Intelligence**.
   [arXiv:2410.24148](https://arxiv.org/abs/2410.24148)
 
-  - Nouar AlDahoul, Myles Joshua Toledo Tan, **Harishwar Reddy Kasireddy**, Yasir Zaki.  
+* Nouar AlDahoul, Myles Joshua Toledo Tan, **Harishwar Reddy Kasireddy**, Yasir Zaki.  
   _“Advancing Content Moderation: Evaluating Large Language Models for Detecting Sensitive Content Across Text, Images, and Videos”_, **arXiv** preprint arXiv:2411.17123 (2024).  
   [arXiv:2411.17123](https://arxiv.org/abs/2411.17123)
 
