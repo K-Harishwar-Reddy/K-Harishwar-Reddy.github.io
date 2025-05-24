@@ -14,9 +14,10 @@ Research Profile & Publications
 
 - **Harishwar Reddy Kasireddy**, Nicholas Lucarelli, Donghwan Yun, Kyung Chul Moon, John E. Tomaszewski, Seung Seok Han, Benjamin Shickel, Ahmed Naglah, Pinaki Sarder.  
   _“Explainable Feature Embeddings from Histopathology Foundation Models: A Case Study for End Stage Kidney Disease Risk Analysis in Diabetic Nephropathy Patients”_, in **Proceedings of the Medical Imaging 2025: Digital and Computational Pathology**, SPIE 13413, 135–140 (2025).  
+  _**Selected for Oral Presentation**_  
   - [SPIE Presentation (2025)](https://spie.org/medical-imaging/presentation/Explainable-feature-embeddings-from-histopathology-foundation-models--A-case/13413-20)  
   - News coverage: [New AI approach makes foundation models more interpretable for kidney disease prediction (Pathology News)](https://www.pathologynews.com/computational-pathology-ai/new-ai-approach-makes-foundation-models-more-interpretable-for-kidney-disease-prediction/)
-
+  
 * **Harishwar Reddy Kasireddy**, Udaykanth Reddy Kallam, Siddhartha M. S. K., Hemanth Kongara, Anshul Shivhare, Jayesh Saita, Sharanya Vijay, Raghu Prasad, Rajiv Raman, Chandra Sekhar Seelamantula.
   *“Deep Learning Based Visualization and Volumetric Analysis of Fluid Regions in OCT Scans”*, in **Diagnostics**, vol. 13, no. 16 (2023): 2659.
   [MDPI Article (2023)](https://www.mdpi.com/2075-4418/13/16/2659)
