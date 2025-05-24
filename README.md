@@ -5,7 +5,7 @@ Research Profile & Publications
       <img src="Prof_pic.jpg" alt="Harishwar Reddy Kasireddy" width="160" />
     </td>
     <td valign="top">
-      I’m a third-year PhD candidate in Electrical & Computer Engineering at the Computational Microscopy and Imaging Lab, University of Florida. Before UF, I completed my M.Tech in Artificial Intelligence at the Indian Institute of Science (IISc), Bangalore, where I had the privilege of working with Professor Chandra Sekhar Seelamantula. I’m passionate about machine learning—especially foundation models in digital pathology and multi-omics—and nothing motivates me more than seeing my algorithms pinpoint high-risk patients.
+      I’m a third-year PhD student in Electrical & Computer Engineering at the Computational Microscopy and Imaging Lab, University of Florida. Before UF, I completed my M.Tech in Artificial Intelligence at the Indian Institute of Science (IISc), Bangalore, where I had the privilege of working with Professor Chandra Sekhar Seelamantula. I’m passionate about machine learning—especially foundation models in digital pathology and multi-omics—and nothing motivates me more than seeing my algorithms pinpoint high-risk patients.
     </td>
   </tr>
 </table>
