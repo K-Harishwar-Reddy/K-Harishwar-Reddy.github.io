@@ -27,8 +27,8 @@ I am a final year Computer Science PhD student at CMILab, UF 🎓. Prior to this
   _“Advancing Content Moderation: Evaluating Large Language Models for Detecting Sensitive Content Across Text, Images, and Videos”_, **arXiv** preprint arXiv:2411.17123 (2024).  
   [arXiv:2411.17123](https://arxiv.org/abs/2411.17123)
 
-- Myles Joshua Toledo Tan, **Harishwar Reddy Kasireddy**, AB Satriya, H Abdul Karim, Nouar AlDahoul.  
-  _“Health Is Beyond Genetics: On the Integration of Lifestyle and Environment in Real-Time for Hyper-Personalized Medicine”_, **Frontiers in Public Health**, 12:1522673 (2025).
+- Myles Joshua Toledo Tan, **Harishwar Reddy Kasireddy**, A.B. Satriya, H. Abdul Karim, Nouar AlDahoul.  
+  _“[Health Is Beyond Genetics: On the Integration of Lifestyle and Environment in Real-Time for Hyper-Personalized Medicine](https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2024.1522673/full)”_, **Frontiers in Public Health**, 12:1522673 (2025).
 
 
 
